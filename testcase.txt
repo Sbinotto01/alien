@@ -1,2 +1,2 @@
-Document for my first commit
+1Document for my first commit
 expected result - failed
